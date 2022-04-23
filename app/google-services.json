@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914115209740",
+    "firebase_url": "https://android-food-app-5b2fe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-food-app-5b2fe",
+    "storage_bucket": "android-food-app-5b2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914115209740:android:1b82437934a3698fb69c29",
+        "android_client_info": {
+          "package_name": "com.example.salmangeforce.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914115209740-eeigkacml6r432h7r0b1sc9i2p038pfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1Hv_TUmRFL5s5MzgXvsaO6n06HLufrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914115209740-eeigkacml6r432h7r0b1sc9i2p038pfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

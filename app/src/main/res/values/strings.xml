@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="action_settings">Settings</string>
+    <string name="slogan">Bất kể bạn đang ở đâu cho dù bạn đang ở nhà, hay ở văn phòng, hay ở bãi biển, chúng tôi sẽ tìm thấy bạn và chúng tôi sẽ mang đồ ăn đến cho bạn!</string>
+    <string name="sloganServer">Chúng tôi vận chuyển sản phẩm đến tay khách hàng nhanh nhất</string>
+
+    <string name="sign_up">ĐĂNG KÝ</string>
+    <string name="sign_in">ĐĂNG NHẬP</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="sign_out">Đăng Xuất</string>
+    <string name="orders">Đặt Món</string>
+    <string name="cart">Giỏ Hàng</string>
+    <string name="my_name">Duc</string>
+    <string name="menu">Menu</string>
+    <string name="image">Image</string>
+    <string name="place_order">Thanh Toán</string>
+    <string name="_1_000">$1,000</string>
+    <string name="_12345678">12345678</string>
+    <string name="_03234380625">03595266922</string>
+    <string name="_0_00">$0.00</string>
+    <string name="walton_road">Walton Road</string>
+    <string name="shipping">shipping</string>
+    <string name="server">Admin</string>
+    <string name="client">User</string>
+    <string name="title_activity_home_server">HomeActivityServer</string>
+    <string name="upload">Upload</string>
+    <string name="select">Select</string>
+    <string name="description">Mô Tả</string>
+    <string name="price">Giá</string>
+    <string name="discount">Discount</string>
+    <string name="title_activity_tracking_order">TrackingOrderActivity</string>
+    <string name="remember_me">Remember me</string>
+    <string name="food_description">Mô Tả Món</string>
+
+    <string name="facebook_app_id">358682634886397</string>
+    <string name="facebook_login_protocol_name">fb358682634886397</string>
+</resources>
