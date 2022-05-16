@@ -1,5 +1,6 @@
 # FoodOrder
-Food Order Android App using Firebase
+Food Order Android App using Firebase.
+Data dataduc.json => add firebase
 
 This is a food order app built in android(native). Firebase is used for storing data.
 
