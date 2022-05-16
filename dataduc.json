@@ -1,0 +1,316 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://znews-photo.zadn.vn/w660/Uploaded/JAC1_N3/2013_10_11/1410_pho_hinh_1.jpg",
+      "Name" : "Món Nước"
+    },
+    "02" : {
+      "Image" : "https://image-us.eva.vn/upload/3-2020/images/2020-08-26/image4-1598431030-68-width605height416.png",
+      "Name" : "Cơm"
+    },
+    "03" : {
+      "Image" : "https://img.tastykitchen.vn/resize/764x-/2021/05/31/thuong-thuc-mon-salad-ca-chua-voi-cong-thuc-che-bi-171d.jpg",
+      "Name" : "Salad"
+    },
+    "04" : {
+      "Image" : "https://ameovat.com/wp-content/uploads/2016/05/cach-lam-ga-ran-600x399.jpg",
+      "Name" : "Món Gà"
+    },
+    "05" : {
+      "Image" : "https://i.vietgiaitri.com/2019/2/15/chi-them-mot-cong-doan-khi-che-bien-mon-ca-ro-phi-cua-chi-em-dam-1b7735.jpg",
+      "Name" : "Món Cá"
+    },
+    "06" : {
+      "Image" : "https://product.hstatic.net/200000264775/product/soup_hai_san4_3dc658daf378468e80134b68b88c320e_grande.jpg",
+      "Name" : "Soup"
+    },
+    "07" : {
+      "Image" : "https://photo-cms-baonghean.zadn.vn/w607/Uploaded/2021/nkdkswkqoc/201607/original/resize_images1622613_hoa_qua.jpg",
+      "Name" : "Hoa Quả"
+    },
+    "08" : {
+      "Image" : "https://afamilycdn.com/150157425591193600/2021/3/9/mon-trang-mieng-philipines-6-16152804869541383945171.jpg",
+      "Name" : "Nước Uống"
+    },
+    "09" : {
+      "Image" : "https://i.imgur.com/pCD5F4A.jpg",
+      "Name" : "Mứt"
+    }
+  },
+  "Food" : {
+    "01" : {
+      "description" : "Cá tai tượng chiên xù ngon tuyệt ăn cùng với rau sống và bún mắm nêm",
+      "discount" : "0",
+      "image" : "https://img-global.cpcdn.com/recipes/1477fbfb25bb911f/751x532cq70/ca-tai-t%C6%B0%E1%BB%A3ng-chien-xu-recipe-main-photo.jpg",
+      "menuId" : "05",
+      "name" : "CÁ TAI TƯỢNG CHIÊN XÙ",
+      "price" : "31"
+    },
+    "02" : {
+      "description" : "Cá lóc chiên xù cuốn với rau sống và bún",
+      "discount" : "0",
+      "image" : "https://cdn.tgdd.vn/2020/09/CookRecipe/GalleryStep/8007.jpg",
+      "menuId" : "05",
+      "name" : "CÁ LÓC CHIÊN XÙ",
+      "price" : "25"
+    },
+    "03" : {
+      "description" : "Cá chẽm hấp với ớt chuông, hành tím, bún tàu và các gia vị đi kèm, phù hợp với các bữa tiệc",
+      "discount" : "0",
+      "image" : "http://dattiecgiatot.com/admincp/San-Pham/HinhAnh/726475287271.png",
+      "menuId" : "05",
+      "name" : "CÁ CHẼM HẤP KIỂU HONGKONG",
+      "price" : "25"
+    },
+    "04" : {
+      "description" : "Đây là một trong những đặc sản của Việt Nam không thể không thưởng thức khi bạn đến với Việt Nam",
+      "discount" : "0",
+      "image" : "https://toplist.vn/images/800px/bun-bo-hue-nhung-34557.jpg",
+      "menuId" : "01",
+      "name" : "BÚN BÒ HUẾ",
+      "price" : "40"
+    },
+    "05" : {
+      "description" : "Phở là một trong những món nằm trong top các món ngon trên toàn thế giới",
+      "discount" : "0",
+      "image" : "https://media.cooky.vn/images/blog-2016/cach-lam-3-mon-pho-nuoc-ngon-nong-hoi-dam-da-huong-vi-viet%201.jpg",
+      "menuId" : "01",
+      "name" : "PHỞ",
+      "price" : "40"
+    },
+    "06" : {
+      "description" : "Bánh canh cá lóc được xem như món đặc sản phổ biến nhất tại khu vực Bình Trị Thiên. Đây cũng là một trong những món ăn việt ngon dân dã, quen thuộc được nhiều người Việt yêu thích khắp cả nước với nguyên liệu là những sợi bánh canh làm từ bột gạo và thịt cá lóc đồng. Người ta thường ăn bánh canh cá lóc vào các bữa ăn xế, ăn khuya hay bất cứ thời điểm nào trong ngày.",
+      "discount" : "0",
+      "image" : "https://cdn.huongnghiepaau.com/wp-content/uploads/2019/01/banh-canh-ca-loc.jpg",
+      "menuId" : "01",
+      "name" : "BÁNH CANH",
+      "price" : "39"
+    },
+    "07" : {
+      "description" : "Cơm tấm đã trở thành một phần linh hồn làm nên một Sài Gòn rất khác trong lòng những người đã và đang sinh sống tại thành phố nhộn nhịp này. Thậm chí có những nơi bạn chỉ tốn có 15 nghìn đồng là đã có ngay một đĩa cơm nóng hổi thơm phức nhưng đủ để no bụng sau một ngày làm việc vất vả. Hãy cùng chúng tôi khám phá thêm nhiều món ăn thơm ngon hấp dẫn khắp dải hình chữ S Việt Nam để thấy thêm yêu mến quê hương mình nhé. Nếu Hà Nội nổi tiếng với bún chả, phở bò thì Sài Gòn lại đặc trưng bởi món cơm tấm ngon nhức nách.",
+      "discount" : "0",
+      "image" : "https://media.cooky.vn/recipe/g4/35082/s/cooky-recipe-636676254789042145.JPG",
+      "menuId" : "02",
+      "name" : "CƠM TẤM",
+      "price" : "42"
+    },
+    "08" : {
+      "description" : "Cơm chiên dương châu là món ăn ngon có xuất xứ từ thời nhà thanh của Trung Quốc và nhanh chóng nổi tiếng trên khắp thế giới. Món cơm chiên dương châu này vừa thơm ngon lại vừa có rất nhiều màu sắc bắt nữa, đậm đà và giàu chất dinh dưỡng, rất dễ dàng để chế biến.",
+      "discount" : "0",
+      "image" : "https://ameovat.com/wp-content/uploads/2018/03/cach-lam-com-chien-trung-4-600x400.jpg",
+      "menuId" : "02",
+      "name" : "CƠM CHIÊN DƯƠNG CHÂU",
+      "price" : "38"
+    },
+    "09" : {
+      "description" : "Dường như, khó có loại cơm nào gây thương nhớ bằng cơm niêu. Người ta vẫn thường gọi đây chính là món “cơm trong kí ức” bởi nó làm cho bao nhiêu người phải bồi hồi nhớ về thời niên thiếu. Đây là món ngon được ví như tinh hoa ẩm thực Việt.",
+      "discount" : "0",
+      "image" : "https://limody.vn/wp-content/uploads/2020/11/com-nieu-sai-gon-19.jpg",
+      "menuId" : "02",
+      "name" : "CƠM NIÊU",
+      "price" : "20"
+    },
+    "10" : {
+      "description" : "Salad Rau Trộn Sốt Mayonnaise - Món salad trộn ngon, cực hấp dẫn tại nhà. Salad trộn rau có tác dụng chống lão hóa, đặc biệt có vị chua ngọt, hòa với vị béo của sốt mayonnaise và hương thơm của dầu mè nên đem lại khẩu vị cực ngon.",
+      "discount" : "0",
+      "image" : "https://media.cooky.vn/recipe/g1/314/s/recipe314-cook-step3-636834193513659453.jpg",
+      "menuId" : "03",
+      "name" : "XÀ LÁCH TRỘN",
+      "price" : "15"
+    },
+    "11" : {
+      "description" : "Nghe tên có vẻ đơn giản nhưng thực sự rất ngon",
+      "discount" : "0",
+      "image" : "https://cdn.huongnghiepaau.com/wp-content/uploads/2019/01/banh-canh-ca-loc.jpg",
+      "menuId" : "03",
+      "name" : "RAU MUỐNG XÀO TỎI",
+      "price" : "10"
+    },
+    "12" : {
+      "description" : "Kho Quẹt Chấm Rau Củ là món ngon dân dã của người miền Tây. Cách làm kho quẹt với vị âm ấm, thơm nồng mùi nước mắm, kết hợp từ nguyên liệu thịt heo beo béo, dai dai, tôm khô mềm mềm rất đặc trưng. Đặc biệt, với cách làm kho quẹt chấm rau củ ngon đúng điệu miền Tây.",
+      "discount" : "0",
+      "image" : "https://media.cooky.vn/recipe/g2/16859/s/cooky-recipe-635969323537578163.jpg",
+      "menuId" : "03",
+      "name" : "RAU CỦ LUỘC CHẮM KHO QUẸT",
+      "price" : "15"
+    },
+    "13" : {
+      "description" : "Cách làm cánh gà chiên nước mắm không cầu kì về mặt nguyên liệu nhưng nếu làm không khéo, cánh gà có thể bị khô quá hoặc mềm quá, hoặc thịt bên trong chưa chín mà da gà bên ngoài đã cháy đen.",
+      "discount" : "0",
+      "image" : "https://daubepgiadinh.vn/wp-content/uploads/2016/09/canh-ga-chien-nuoc-mam-600x400.jpg",
+      "menuId" : "04",
+      "name" : "GÀ CHIÊN NƯỚC MẮM",
+      "price" : "39"
+    },
+    "14" : {
+      "description" : "Những ngày hè nóng bức này mà được thưởng thức vị đậm đà của gà hòa với lá giang chắc hẳn sẽ giúp cho bạn có thêm năng lượng hoạt động",
+      "discount" : "0",
+      "image" : "https://media.cooky.vn/recipe/g1/5852/s/recipe5852-prepare-step5-635953612974203156.jpg",
+      "menuId" : "04",
+      "name" : "CANH GÀ LÁ GIANG",
+      "price" : "39"
+    },
+    "15" : {
+      "description" : "Những bữa ăn chính, ăn gì cũng được nhưng thế nào mình cũng thích có được một chén súp để khai vị. Đặc biệt, súp cua là một trong những loại súp khai vị trên cả tuyệt vời. Cũng như bao loại hải sản khác, nhưng có lẽ cua mà đem nấu súp thì lí tưởng nhất thì phải. Chén súp cua còn nghi ngút khói, gạng nhẹ rồi múc một muỗng mà hương thơm ngọt nhẹ cùng với hương hành ngò cứ phảng phất hấp dẫn.",
+      "discount" : "0",
+      "image" : "https://thucthan.com/media/2019/06/sup-cua/sup-cua.jpg",
+      "menuId" : "06",
+      "name" : "SÚP CUA",
+      "price" : "45"
+    },
+    "16" : {
+      "description" : "Súp SÒ ĐIỆP tóc tiên có hương vị thanh đạm, mùi vị thanh ngọt tự nhiên đến từ nước dùng hầm xương, các thành phần tạo nên món súp rất đều bổ dưỡng và dễ ăn. Là món ăn khai vị thích hợp trong các buổi tiệc, giàu chất dinh dưỡng và nhiều chất canxi.",
+      "discount" : "0",
+      "image" : "http://nhahangvuonque.com.vn/multidata/vuonque-montiecmar-16.jpg",
+      "menuId" : "06",
+      "name" : "SÚP TÓC TIÊN",
+      "price" : "50"
+    },
+    "17" : {
+      "description" : "Quả dâu tây (strawberry) là một loài thực vật có hoa thuộc họ Hoa hồng (Rosaceae) cho quả được nhiều người ưa chuộng. Mùi thơm, hương vị ngọt ngào và màu sắc rực rỡ tạo cho dâu tây một sức hút khó cưỡng.",
+      "discount" : "0",
+      "image" : "https://leafsie.vn/wp-content/uploads/2021/03/cau-chuyen-ve-nguon-goc-qua-dau-tay-co-the-ban-chua-biet_60647e65bcec2.jpeg",
+      "menuId" : "07",
+      "name" : "DÂU TÂY",
+      "price" : "32"
+    },
+    "18" : {
+      "description" : "Quả bơ quen thuộc với đời sống con người, nhưng không phải ai cũng biết rõ những lợi ích mà loại quả này mang lại, như chống ung thư, bổ sung hàng loạt vitamin.",
+      "discount" : "0",
+      "image" : "https://sanphamdacsan.com/datafiles/3/2019-05-18/53678810-10-loi-ich-cua-qua-bo-voi-suc-khoe.jpg",
+      "menuId" : "07",
+      "name" : "BƠ",
+      "price" : "39"
+    },
+    "19" : {
+      "description" : "Sinh tố mãng cầu là món đồ uống có mặt hầu hết trong thực đơn của các cửa hàng. Vị mãng cầu ngọt thanh cùng chút chua chua kích thích vị giác nên rất được ưa chuộng.",
+      "discount" : "0",
+      "image" : "https://cdn.huongnghiepaau.com/wp-content/uploads/2019/08/sinh-to-mang-cau.jpg",
+      "menuId" : "08",
+      "name" : "SINH TỐ MÃNG CẦU",
+      "price" : "29"
+    },
+    "20" : {
+      "description" : "Nước ép rau má pha với đỗ xanh không chỉ có tác dụng để giải khát, mà còn đem đến rất nhiều lợi ích khác cho sức khỏe nói chung. Trong đó, phải kể đến khả năng bổ sung các khoáng chất như B, K, canxi, kẽm và magiê, giúp cơ thể cân bằng nhiệt tốt hơn vào những ngày nắng nóng. Nước rau má cũng rất ngon, khiến người uống cảm thấy dễ chịu nhờ màu xanh dịu thanh mát.",
+      "discount" : "0",
+      "image" : "https://wna.cdnxbvn.com/wp-content/uploads/2020/03/cach-lam-nuoc-rau-ma-dau-xanh-sua-dua-ngon.jpg",
+      "menuId" : "08",
+      "name" : "RAU MÁ ĐẬU XANH",
+      "price" : "31"
+    },
+    "21" : {
+      "description" : "Mứt cam đã trở thành 1 món ăn không thể thiếu trong dịp lễ Nguyên Đán. Đây là 1 loại mứt không chỉ bắt mắt ngay từ màu sắc tự nhiên mà còn hương vị đặc biệt của nó nữa",
+      "discount" : "0",
+      "image" : "https://yummyday.vn/uploads/images/mut-cam-1.jpg",
+      "menuId" : "09",
+      "name" : "MỨT CAM",
+      "price" : "39"
+    },
+    "22" : {
+      "description" : "Mứt dâu tây chua ngọt có thể dùng như sốt phết lên các bánh bánh mì ăn rất ngon, hoặc làm nguyên liệu cho kem dâu cũng ngon. Ngoài ra, có thể pha loãng làm thức uống giải khát \"cực cool\". Mứt dâu cung cấp nhiều vitamin, chống oxy hóa và tăng sức đề kháng cơ thể...",
+      "discount" : "0",
+      "image" : "https://media.cooky.vn/recipe/g3/27167/s320x320/recipe27167-prepare-step4-636518631138581510.jpg",
+      "menuId" : "09",
+      "name" : "MỨT DÂU"
+    }
+  },
+  "Rating" : {
+    "03595266922" : {
+      "04" : {
+        "comment" : "ngon",
+        "foodId" : "04",
+        "rating" : "5"
+      }
+    }
+  },
+  "Request" : {
+    "1636354683244" : {
+      "address" : "Thủ dầu một",
+      "name" : "Faker",
+      "orders" : [ {
+        "discount" : "0",
+        "id" : 7,
+        "price" : "150",
+        "productId" : "23",
+        "productName" : "BÁNH SINH NHẬT",
+        "quantity" : "2"
+      }, {
+        "discount" : "0",
+        "id" : 8,
+        "price" : "130",
+        "productId" : "24",
+        "productName" : "BÁNH BÔNG LAN",
+        "quantity" : "2"
+      } ],
+      "phone" : "03595266922",
+      "status" : "2",
+      "total" : " $560"
+    },
+    "1637674386388" : {
+      "address" : "Bình Dương",
+      "name" : "Gordon Ramsay",
+      "orders" : [ {
+        "discount" : "0",
+        "id" : 3,
+        "price" : "25",
+        "productId" : "03",
+        "productName" : "CÁ CHẼM HẤP KIỂU HONGKONG",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "id" : 4,
+        "price" : "15",
+        "productId" : "10",
+        "productName" : "XÀ LÁCH TRỘN",
+        "quantity" : "1"
+      } ],
+      "phone" : "03595266923",
+      "status" : "0",
+      "total" : " $40"
+    },
+    "1638114142839" : {
+      "address" : "Bình Dương",
+      "name" : "Gordon Ramsay",
+      "orders" : [ {
+        "discount" : "10",
+        "id" : 1,
+        "price" : "100",
+        "productId" : "1",
+        "productName" : "CƠM",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "id" : 2,
+        "price" : "40",
+        "productId" : "04",
+        "productName" : "BÚN BÒ HUẾ",
+        "quantity" : "1"
+      }, {
+        "discount" : "0",
+        "id" : 3,
+        "price" : "40",
+        "productId" : "04",
+        "productName" : "BÚN BÒ HUẾ",
+        "quantity" : "1"
+      } ],
+      "phone" : "03595266924",
+      "status" : "0",
+      "total" : " $170"
+    }
+  },
+  "User" : {
+    "0566088677" : {
+      "name" : "khang",
+      "password" : "abc123"
+    },
+    "03595266922" : {
+      "isStaff" : "true",
+      "name" : "Faker",
+      "password" : "12345678"
+    },
+    "03595266923" : {
+      "name" : "Gordon Ramsay",
+      "password" : "12345678"
+    }
+  }
+}
